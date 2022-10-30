@@ -1,1 +1,1 @@
-web: node . anu --server
+worker: node .
