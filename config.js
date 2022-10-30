@@ -150,7 +150,7 @@ global.urlnya = "https://youtube.com/channel/UCauQ8ous-UOTqj27lEtKUhQ"
 
 //============= callButtons =============//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 822-8721-9167'
+global.phn = '+1 (531) 221-2027'
 global.multiplier = 69 // The higher, The harder levelup
 /*============== NOMOR ==============*/
 global.nomorbot = '-'
