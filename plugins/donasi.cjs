@@ -1,14 +1,12 @@
 var handler = async m => m.reply(`
 ╭─「 Donasi 」
-│ • TELKOMSEL [08211499086]
-│ • DANA [08211499086]
-│ • OVO [08211499086]
-│ • GOPAY [08211499086]
-│ • SHOPPY PAY [08211499086]
-│ • Saweria [https://saweria.co/botstyle]
+│ • AXIS [083830815715]
+│ • AXIS² [083890585717]
+│ • DANA [083830815715]
+│ • UNTUK ALL QRISS BISA CHAT OWNER 🗿👍🏻
 ╰────
 ╭─「 Hubungi 」
-│ > Ingin donasi? Wa.me/62895368900456
+│ > Ingin donasi? Wa.me/15312212027
 ╰────
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['donasi']
