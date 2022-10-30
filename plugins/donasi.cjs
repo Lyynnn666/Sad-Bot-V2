@@ -3,6 +3,7 @@ var handler = async m => m.reply(`
 │ • AXIS [083830815715]
 │ • AXIS² [083890585717]
 │ • DANA [083830815715]
+| • SAWERIA https://saweria.co/LynnZakky
 │ • UNTUK ALL QRISS BISA CHAT OWNER 🗿👍🏻
 ╰────
 ╭─「 Hubungi 」
